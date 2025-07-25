@@ -1,8 +1,0 @@
-fastapi
-vercel-python
-PyMuPDF
-pytesseract
-Pillow
-beautifulsoup4
-requests
-google-generativeai 
