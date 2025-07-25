@@ -1,0 +1,23 @@
+{
+  "name": "ucretsiz-akilli-metin-platformu",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "pdf-parse": "^1.1.1",
+    "tesseract.js": "^4.0.2",
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.2",
+    "@types/pdf-parse": "^1.1.3"
+  }
+} 
